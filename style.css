@@ -13,3 +13,43 @@
     display: flex;
     gap: 15px;
 }
+
+.jumbotron{
+    background-color: rgb(108, 73, 212);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: white;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.info-block{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.description p{
+    margin: 0;
+}
+
+h4{
+    margin-top: 100px;
+    
+}
+
+.card-info{
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+}
